@@ -2,18 +2,18 @@ git status: Este comando se usa para obtener el estado actual del repositorio
 
 git clone: este comando clona o realiza una copia de la ultima version de un proyecto y la guarda en el computador
 
-git pull: se utiliza para recibir actualizaci
+git pull: se utiliza para recibir actualizacion
 
-git checkout:
+git checkout: para determinara en que rama te encuentras
 
-git log:
+git log: muestra el ultimo commmit subido
 
 git branch: se utiliza para trabajar en pararelo en el mismo proyecto al crear una rama
 
-git add:
+git add: este comando se utiliza para agregar archivos nuevos o modificados al indice
 
-git commit:
+git commit: registra los cambios en el repositorio
 
-git push:
+git push: este comando permite subir los cambios locales al repositorio
 
-git merge:
+git merge: permite unir los cambios de 2 ramas distintas 
